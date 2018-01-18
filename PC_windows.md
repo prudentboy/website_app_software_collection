@@ -1,4 +1,4 @@
 # PC-windows_software_collection
 
-- working
+- working software
 + Notepad++: https://notepad-plus-plus.org/
