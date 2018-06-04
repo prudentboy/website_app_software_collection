@@ -14,9 +14,13 @@
 - git
 
 ## plug-in software
-- Clover: http://cn.ejie.me/ 
+- iSlide: https://www.islide.cc/
+  + PPT编辑插件
+- Clover: http://cn.ejie.me/
+  + 文件夹多标签工具
 - Ditto: http://ditto-cp.sourceforge.net/  
-usage: http://www.playpcesor.com/2011/02/ditto.html
+  + 高级剪贴板
+  + usage: http://www.playpcesor.com/2011/02/ditto.html
 
 ## skill software
 - 金山打字通
